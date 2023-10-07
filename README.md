@@ -1,2 +1,5 @@
-# Cynthia-DAP
-My Personal Repository
+- 👋 Hi, I’m Cynthia
+- 👀 I’m interested in Excel, SQL, Power BI, python etc.
+- 📚 I’m currently learning data analytics.
+- 👯 I’m looking to collaborate with: Data Analyst from any Field.
+- 📫 You can reach me via nwezicynthia97@gmail.com
